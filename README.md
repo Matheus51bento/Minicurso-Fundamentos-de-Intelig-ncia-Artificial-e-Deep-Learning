@@ -1,0 +1,1 @@
+# Minicurso-Fundamentos-de-Intelig-ncia-Artificial-e-Deep-Learning
