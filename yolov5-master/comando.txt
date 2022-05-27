@@ -1,0 +1,1 @@
+python detect.py --weights ifrn_shirt.pt --conf 0.70 --source 0 --save-crop --view-img
